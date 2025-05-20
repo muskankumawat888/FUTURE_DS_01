@@ -1,4 +1,4 @@
-# FUTURE_DS_01
+# Social Media Trend Analysis
 - *✅ Task 1 Completed: Social Media Trend Analysis* 
 - *📊 Future Interns – Data Science & Analytics Internship*
 
